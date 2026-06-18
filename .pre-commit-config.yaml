@@ -1,4 +1,3 @@
-# Pre-commit that runs locally
 fail_fast: false
 
 repos:
